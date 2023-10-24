@@ -1,6 +1,2 @@
 Hi 
 Welcome to Salesforce
-
-my nnnnnn
-Holla
-Bye
